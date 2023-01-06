@@ -1,0 +1,5 @@
+name=kvin
+math=50
+science=70
+total=120
+average=60
